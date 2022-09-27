@@ -1,0 +1,26 @@
+{
+  "name": "retool-demos",
+  "version": "1.0.0",
+  "description": "Demo harness for Retool apps",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwhinnery/retool-demos.git"
+  },
+  "keywords": [
+    "retool"
+  ],
+  "author": "Kevin Whinnery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kwhinnery/retool-demos/issues"
+  },
+  "homepage": "https://github.com/kwhinnery/retool-demos#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
